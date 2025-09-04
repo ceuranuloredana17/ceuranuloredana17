@@ -1,7 +1,9 @@
 👋 Hi, I'm Loredana!
 
 🎓 Master's student in Information Systems for Management and Processing of Economic Resources
+
 💻 Passionate about Data Analysis, Business Intelligence, and Software Development
+
 📊 Interested in transforming economic and business data into valuable insights through analytics and visualization
 
 🚀 About Me
