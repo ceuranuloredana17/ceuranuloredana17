@@ -2,26 +2,11 @@
 
 🎓 Master's student in Information Systems for Management and Processing of Economic Resources
 
-💻 Passionate about Data Analysis, Business Intelligence, and Software Development
-
 📊 Interested in transforming economic and business data into valuable insights through analytics and visualization
 
 🚀 About Me
 
--🌱 Currently improving my skills in Python, SQL, and Data Analysis
-
 -🔍 Enthusiastic about data-driven decision making and building useful applications for business contexts
-
-
-🛠️ Tech & Tools
-
--Programming: Python, SQL, Java, C++
-
--Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Streamlit, SAS
-
--Databases: MySQL, SQLite, Firebase
-
--Other Tools: Git/GitHub, React, Node.js
 
 📈 Current Focus
 
