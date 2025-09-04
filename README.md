@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 Hi, I'm Loredana!
 
-<!--
-**ceuranuloredana17/ceuranuloredana17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's student in Information Systems for Management and Processing of Economic Resources
+💻 Passionate about Data Analysis, Business Intelligence, and Software Development
+📊 Interested in transforming economic and business data into valuable insights through analytics and visualization
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌱 Currently improving my skills in Python, SQL, and Data Analysis
+
+-🔍 Enthusiastic about data-driven decision making and building useful applications for business contexts
+
+-📚 Strong interest in Business Intelligence, Data Science, and Economic Data Processing
+
+-✨ Always eager to learn and explore new technologies in the data ecosystem
+
+🛠️ Tech & Tools
+
+-Programming: Python, SQL, Java, C++
+
+-Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Streamlit, SAS
+
+-Databases: MySQL, SQLite, Firebase
+
+-Other Tools: Git/GitHub, React, Node.js
+
+📈 Current Focus
+
+-Developing hands-on projects in Data Analysis & Visualization
+
+-Exploring Machine Learning basics applied to business and economic data
+
+-Preparing for a career in Data Analytics / Business Intelligence
